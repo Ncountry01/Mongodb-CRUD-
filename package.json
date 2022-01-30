@@ -1,0 +1,30 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "creating a weather nodejs app",
+  "main": "weather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "niry",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.8",
+    "requests": "^0.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ncountry01/Mongodb-CRUD-.git"
+  },
+  "keywords": [
+    "[MongoDB",
+    "REST",
+    "API",
+    "UI]"
+  ],
+  "bugs": {
+    "url": "https://github.com/Ncountry01/Mongodb-CRUD-/issues"
+  },
+  "homepage": "https://github.com/Ncountry01/Mongodb-CRUD-#readme"
+}
